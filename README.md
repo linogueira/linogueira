@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lilian
 - 👀 I’m interested in Data Science and Biology
-- 🤸🏻‍♀️ I like to spend my free time with books, games, music and aerial silks!
+- 🤸🏻‍♀️ I like to spend my free time with books, games, music and doing aerial silks!
 - 🌱 I’m currently studying Data Science and Coding
 - 📫 How to reach me: lilanog@gmail.com
 
