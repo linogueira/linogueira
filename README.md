@@ -1,6 +1,6 @@
 - 👋🏻 Hi, I’m Lilian
 - 👩🏻‍🔬 I have a PhD in Animal Biology 🐭
-- 💾 I’m currently studying Data Science and Coding
+- 💾 I’m currently working with Bioinformatics 
 - 🤸🏻‍♀️ I like to spend my free time with books, games, music and doing aerial silks!
 - 📫 How to reach me: lilanog@gmail.com
 
